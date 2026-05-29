@@ -18,7 +18,7 @@ Automatically reacts with 🔥 to every message in your chat after 2 seconds.
 | Variable   | Value                        |
 |------------|------------------------------|
 | BOT_TOKEN  | your new token from BotFather |
-| CHAT_ID    | -1001892006921               |
+| CHAT_ID    |                              |
 
 - Click **Deploy** — done! ✅
 
